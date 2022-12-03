@@ -1,0 +1,4 @@
+#Thu Dec 01 13:20:55 WITA 2022
+base.0=/Users/hartono/Desktop/Flutter/tes/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
